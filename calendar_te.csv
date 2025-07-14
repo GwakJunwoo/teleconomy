@@ -12,9 +12,9 @@
 04:30 AM,2025-07-14 13:30:00,Japan,JP,Tertiary Industry Index MoM,MAY,0.6%,0.1%,0.3%,0.5%
 05:00 AM,2025-07-14 14:00:00,South Korea,KR,10-Year KTB Auction,,2.835%,,,2.885%
 06:30 AM,2025-07-14 15:30:00,India,IN,WPI Food Index YoY,JUN,,,1.6%,1.72%
-06:30 AM,2025-07-14 15:30:00,India,IN,WPI Fuel YoY,JUN,,,-2.0%,-2.27%
-06:30 AM,2025-07-14 15:30:00,India,IN,WPI Inflation YoY,JUN,,0.52%,0.9%,0.39%
-06:30 AM,2025-07-14 15:30:00,India,IN,WPI Manufacturing YoY,JUN,,,1.8%,2.04%
+06:30 AM,2025-07-14 15:30:00,India,IN,WPI Fuel YoY,JUN,-2.65%,,-2.0%,-2.27%
+06:30 AM,2025-07-14 15:30:00,India,IN,WPI Inflation YoY,JUN,-0.13%,0.52%,0.9%,0.39%
+06:30 AM,2025-07-14 15:30:00,India,IN,WPI Manufacturing YoY,JUN,1.97%,,1.8%,2.04%
 09:30 AM,2025-07-14 18:30:00,Germany,DE,12-Month Bubill Auction,,,,,1.808%
 09:45 AM,2025-07-14 18:45:00,European Union,EU,2028 EU-Bonds Auction,,,,,2.142%
 09:45 AM,2025-07-14 18:45:00,European Union,EU,2034 EU-Bonds Auction,,,,,3.007%
@@ -372,3 +372,4 @@
 05:00 AM,2025-07-24 14:00:00,India,IN,HSBC Manufacturing PMI Flash,JUL,,,58.8,58.4
 05:00 AM,2025-07-24 14:00:00,India,IN,HSBC Services PMI Flash,JUL,,,60.5,60.4
 05:00 AM,2025-07-24 14:00:00,Singapore,SG,1-Year T-Bill Auction,,,,,2.29%
+06:00 AM,2025-07-24 15:00:00,Germany,DE,GfK Consumer Confidence,AUG,,,-20,-20.3
