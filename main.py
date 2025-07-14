@@ -6,23 +6,24 @@ from Timer import timer_until_window
 from message import format_alert_messages
 from telegram import send_telegram_alerts
 import pandas as pd
+import pytz
 import os
 import time
 
 # 환경 변수 또는 직접 입력
-BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '여기에_봇_토큰')
-CHAT_ID = os.getenv('TELEGRAM_CHAT_ID', '여기에_채팅_ID')
+BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN', '8083119806:AAHbMtmBORqBn_Co_JywKjcAqrsL1jNd46U')
+CHAT_ID = os.getenv('TELEGRAM_CHAT_ID', '-1002424388234')
 
 
 # 최초 데이터 적재 및 타겟 시간 계산
 initial = EconomicCalendarData(get_calendar())
 
 def get_next_target_time(df):
-    now = pd.Timestamp.now(tz=None)
-    # KST_DATETIME이 현재 이후인 것 중 가장 빠른 시간
-    future = df[df['KST_DATETIME'].notna() & (df['KST_DATETIME'] > now)]
+    now = pd.Timestamp.now() + pd.Timedelta(hours=9)  # UTC+9, tz-naive
+    kst = pd.to_datetime(df['KST_DATETIME'], errors='coerce')  # tz-naive, KST 기준
+    future = df[kst.notna() & (kst > now)]
     if not future.empty:
-        return future['KST_DATETIME'].min()
+        return kst[future.index].min()
     return None
 
 
@@ -42,7 +43,10 @@ def crawl_and_alert_and_reschedule():
     # 다음 타겟 시간 계산 및 타이머 재설정
     next_time = get_next_target_time(new_df)
     if next_time:
-        print(f"[예약] 다음 타겟 발표시간: {next_time}")
+        now = pd.Timestamp.now() + pd.Timedelta(hours=9)
+        wait_sec = (next_time - now).total_seconds()
+        print(f"[예약] 다음 타겟 발표시간: {next_time} (현재시각: {now}, 대기 {int(wait_sec)}초)")
+        print(f"[INFO] {next_time - pd.Timedelta(minutes=1)} ~ {next_time + pd.Timedelta(minutes=2)} 구간에서 30초 간격으로 크롤링/알림")
         timer_until_window(next_time.to_pydatetime(), crawl_and_alert_and_reschedule)
     else:
         print("[종료] 더 이상 예정된 발표가 없습니다.")
@@ -52,7 +56,10 @@ if __name__ == "__main__":
     first_df = get_calendar()
     next_time = get_next_target_time(first_df)
     if next_time:
-        print(f"[시작] 첫 타겟 발표시간: {next_time}")
+        now = pd.Timestamp.now() + pd.Timedelta(hours=9)
+        wait_sec = (next_time - now).total_seconds()
+        print(f"[시작] 첫 타겟 발표시간: {next_time} (현재시각: {now}, 대기 {int(wait_sec)}초)")
+        print(f"[INFO] {next_time - pd.Timedelta(minutes=1)} ~ {next_time + pd.Timedelta(minutes=2)} 구간에서 30초 간격으로 크롤링/알림")
         timer_until_window(next_time.to_pydatetime(), crawl_and_alert_and_reschedule)
     else:
         print("[종료] 예정된 발표가 없습니다.")
