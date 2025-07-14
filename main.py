@@ -31,9 +31,14 @@ def crawl_and_alert_and_reschedule():
     global initial
     # 최신 데이터 크롤링
     new_df = get_calendar()
+    print("[DEBUG] 크롤링된 데이터 상위 5개:")
+    print(new_df.head())
     # 신규 알림 감지
     new_alerts = initial.compare_and_alert(new_df)
+    print(f"[DEBUG] 신규 알림 감지 결과: {len(new_alerts)}건")
     if not new_alerts.empty:
+        print("[DEBUG] 신규 알림 데이터:")
+        print(new_alerts)
         # 메시지 생성 및 전송
         messages = format_alert_messages(new_alerts)
         send_telegram_alerts(messages, BOT_TOKEN, CHAT_ID)
