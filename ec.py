@@ -6,6 +6,7 @@
 from CalendarCrawler import get_calendar
 from EconomicCalendar import EconomicCalendarData
 import pandas as pd
+from message import *
 
 ec = EconomicCalendarData(get_calendar())
 new_alerts = ec.compare_and_alert(
@@ -14,3 +15,5 @@ new_alerts = ec.compare_and_alert(
 
 print(new_alerts)
 new_alerts.to_csv('test.csv', encoding='utf-8-sig')
+
+print(format_alert_messages(new_alerts))

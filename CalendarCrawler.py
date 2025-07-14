@@ -95,3 +95,4 @@ def get_calendar():
 
 
 print(get_calendar())
+get_calendar().to_csv("calendar_te.csv", index=False, encoding="utf-8-sig")

@@ -1,0 +1,369 @@
+﻿시간,KST_DATETIME,국가,국가코드,지표명,레퍼런스,발표치,예상치,예측치,이전치
+11:50 PM,2025-07-14 08:50:00,Japan,JP,Machinery Orders MoM,MAY,-0.6%,-1.5%,0.5%,-9.1%
+11:50 PM,2025-07-14 08:50:00,Japan,JP,Machinery Orders YoY,MAY,4.4%,3.4%,5.5%,6.6%
+12:00 AM,2025-07-14 09:00:00,Singapore,SG,GDP Growth Rate QoQ Adv,Q2,1.4%,0.7%,0.9%,-0.5%
+12:00 AM,2025-07-14 09:00:00,Singapore,SG,GDP Growth Rate YoY Adv,Q2,4.3%,3.5%,3.5%,4.1%
+03:00 AM,2025-07-14 12:00:00,China,CN,Balance of Trade,JUN,,$109B,$ 100B,$103.22B
+03:00 AM,2025-07-14 12:00:00,China,CN,Exports YoY,JUN,,5%,5.5%,4.8%
+03:00 AM,2025-07-14 12:00:00,China,CN,Imports YoY,JUN,,1.3%,2.5%,-3.4%
+04:30 AM,2025-07-14 13:30:00,Japan,JP,Capacity Utilization MoM,MAY,,,0.5%,1.3%
+04:30 AM,2025-07-14 13:30:00,Japan,JP,Industrial Production MoM Final,MAY,,0.5%,0.5%,-1.1%
+04:30 AM,2025-07-14 13:30:00,Japan,JP,Industrial Production YoY Final,MAY,,,-1.8%,0.5%
+04:30 AM,2025-07-14 13:30:00,Japan,JP,Tertiary Industry Index MoM,MAY,,0.1%,0.3%,0.3%
+05:00 AM,2025-07-14 14:00:00,South Korea,KR,10-Year KTB Auction,,,,,2.885%
+06:30 AM,2025-07-14 15:30:00,India,IN,WPI Food Index YoY,JUN,,,1.6%,1.72%
+06:30 AM,2025-07-14 15:30:00,India,IN,WPI Fuel YoY,JUN,,,-2.0%,-2.27%
+06:30 AM,2025-07-14 15:30:00,India,IN,WPI Inflation YoY,JUN,,0.52%,0.9%,0.39%
+06:30 AM,2025-07-14 15:30:00,India,IN,WPI Manufacturing YoY,JUN,,,1.8%,2.04%
+09:30 AM,2025-07-14 18:30:00,Germany,DE,12-Month Bubill Auction,,,,,1.808%
+09:45 AM,2025-07-14 18:45:00,European Union,EU,2028 EU-Bonds Auction,,,,,2.142%
+09:45 AM,2025-07-14 18:45:00,European Union,EU,2034 EU-Bonds Auction,,,,,3.007%
+09:45 AM,2025-07-14 18:45:00,European Union,EU,2054 EU-Bonds Auction,,,,,3.399%
+10:30 AM,2025-07-14 19:30:00,India,IN,Inflation Rate YoY,JUN,,2.5%,2.5%,2.82%
+10:30 AM,2025-07-14 19:30:00,India,IN,Inflation Rate MoM,JUN,,,1.0%,0.21%
+12:00 PM,2025-07-14 21:00:00,Brazil,BR,IBC-BR Economic Activity,MAY,,,0.1%,0.2%
+12:30 PM,2025-07-14 21:30:00,Canada,CA,Wholesale Sales MoM Final,MAY,,-0.4%,-0.4%,-2.3%
+03:00 PM,2025-07-15 00:00:00,Euro Area,EA,ECB Cipollone Speech,,,,,
+03:30 PM,2025-07-15 00:30:00,United States,US,3-Month Bill Auction,,,,,4.255%
+03:30 PM,2025-07-15 00:30:00,United States,US,6-Month Bill Auction,,,,,4.145%
+07:00 PM,2025-07-15 04:00:00,Argentina,AR,Inflation Rate MoM,JUN,,,2.5%,1.5%
+07:00 PM,2025-07-15 04:00:00,Argentina,AR,Inflation Rate YoY,JUN,,,30.0%,43.5%
+11:01 PM,2025-07-15 08:01:00,United Kingdom,GB,BRC Retail Sales Monitor YoY,JUN,,0.2%,0.4%,0.6%
+,,G20,G2,G20 Finance Ministers and Central Bank Governors Meeting,,,,,
+,,Turkey,TR,Auto Production YoY,JUN,,,,1.7%
+,,Turkey,TR,Auto Sales YoY,JUN,,,11.0%,7.4%
+,,China,CN,New Yuan Loans,JUN,,CNY1800B,CNY2050.0B,CNY620B
+,,China,CN,M2 Money Supply YoY,JUN,,8.1%,7.9%,7.9%
+,,China,CN,Outstanding Loan Growth YoY,JUN,,,7.8%,7.1%
+,,China,CN,Total Social Financing,JUN,,CNY3650B,CNY3750.0B,CNY2290B
+,,Brazil,BR,BCB Focus Market Readout,,,,,
+12:30 AM,2025-07-15 09:30:00,Australia,AU,Westpac Consumer Confidence Change,JUL,,,0.4%,0.5%
+12:30 AM,2025-07-15 09:30:00,Australia,AU,Westpac Consumer Confidence Index,JUL,,,93,92.6
+01:30 AM,2025-07-15 10:30:00,China,CN,House Price Index YoY,JUN,,,-3.1%,-3.5%
+02:00 AM,2025-07-15 11:00:00,China,CN,GDP Growth Rate YoY,Q2,,5.2%,5.3%,5.4%
+02:00 AM,2025-07-15 11:00:00,China,CN,Industrial Production YoY,JUN,,5.6%,5.5%,5.8%
+02:00 AM,2025-07-15 11:00:00,China,CN,Retail Sales YoY,JUN,,5.5%,6.1%,6.4%
+02:00 AM,2025-07-15 11:00:00,China,CN,Fixed Asset Investment (YTD) YoY,JUN,,3.7%,4.5%,3.7%
+02:00 AM,2025-07-15 11:00:00,China,CN,GDP Growth Rate QoQ,Q2,,1%,1.1%,1.2%
+02:00 AM,2025-07-15 11:00:00,China,CN,Industrial Capacity Utilization,Q2,,,74.4%,74.1%
+02:00 AM,2025-07-15 11:00:00,China,CN,Unemployment Rate,JUN,,5%,5.10%,5%
+03:35 AM,2025-07-15 12:35:00,Japan,JP,5-Year Climate Transition JGB Auction,,,,,0.888%
+05:00 AM,2025-07-15 14:00:00,Singapore,SG,MAS 12-Week Bill Auction,,,,,1.83%
+05:00 AM,2025-07-15 14:00:00,Singapore,SG,MAS 4-Week Bill Auction,,,,,1.86%
+07:00 AM,2025-07-15 16:00:00,Spain,ES,Core Inflation Rate YoY Final,JUN,,2.2%,2.2%,2.2%
+07:00 AM,2025-07-15 16:00:00,Spain,ES,Harmonised Inflation Rate MoM Final,JUN,,0.6%,0.6%,0%
+07:00 AM,2025-07-15 16:00:00,Spain,ES,Harmonised Inflation Rate YoY Final,JUN,,2.2%,2.2%,2%
+07:00 AM,2025-07-15 16:00:00,Spain,ES,Inflation Rate MoM Final,JUN,,0.6%,0.6%,0.1%
+07:00 AM,2025-07-15 16:00:00,Spain,ES,Inflation Rate YoY Final,JUN,,2.2%,2.2%,2%
+09:00 AM,2025-07-15 18:00:00,Euro Area,EA,Industrial Production MoM,MAY,,0.6%,0.8%,-2.4%
+09:00 AM,2025-07-15 18:00:00,Euro Area,EA,ZEW Economic Sentiment Index,JUL,,37.8,30,35.3
+09:00 AM,2025-07-15 18:00:00,Euro Area,EA,ECB Buch Speech,,,,,
+09:00 AM,2025-07-15 18:00:00,Euro Area,EA,Industrial Production YoY,MAY,,,1.0%,0.8%
+09:00 AM,2025-07-15 18:00:00,Germany,DE,ZEW Economic Sentiment Index,JUL,,50.2,49.1,47.5
+09:00 AM,2025-07-15 18:00:00,Germany,DE,ZEW Current Conditions,JUL,,-66,-71,-72
+09:00 AM,2025-07-15 18:00:00,United Kingdom,GB,Treasury Stock 2032 Auction,,,,,
+09:30 AM,2025-07-15 18:30:00,Germany,DE,2-Year Schatz Auction,,,,,1.85%
+09:30 AM,2025-07-15 18:30:00,South Africa,ZA,Gold Production YoY,MAY,,,10.0%,-2.5%
+09:30 AM,2025-07-15 18:30:00,South Africa,ZA,Mining Production MoM,MAY,,,1.5%,0.6%
+09:30 AM,2025-07-15 18:30:00,South Africa,ZA,Mining Production YoY,MAY,,,0.3%,-7.7%
+12:15 PM,2025-07-15 21:15:00,Canada,CA,Housing Starts,JUN,,253K,260.0K,279.5K
+12:30 PM,2025-07-15 21:30:00,Canada,CA,Inflation Rate YoY,JUN,,,1.5%,1.7%
+12:30 PM,2025-07-15 21:30:00,Canada,CA,Core Inflation Rate YoY,JUN,,,2.6%,2.5%
+12:30 PM,2025-07-15 21:30:00,Canada,CA,Inflation Rate MoM,JUN,,0.2%,-0.3%,0.6%
+12:30 PM,2025-07-15 21:30:00,Canada,CA,Core Inflation Rate MoM,JUN,,,0.1%,0.6%
+12:30 PM,2025-07-15 21:30:00,Canada,CA,CPI Median YoY,JUN,,3%,2.9%,3%
+12:30 PM,2025-07-15 21:30:00,Canada,CA,CPI Trimmed-Mean YoY,JUN,,3%,297%,3%
+12:30 PM,2025-07-15 21:30:00,Canada,CA,Manufacturing Sales MoM Final,MAY,,-1.3%,-1.3%,-2.8%
+12:30 PM,2025-07-15 21:30:00,Canada,CA,New Motor Vehicle Sales,MAY,,,190.0K,195.7K
+12:30 PM,2025-07-15 21:30:00,United States,US,Core Inflation Rate MoM,JUN,,0.3%,0.2%,0.1%
+12:30 PM,2025-07-15 21:30:00,United States,US,Core Inflation Rate YoY,JUN,,,2.9%,2.8%
+12:30 PM,2025-07-15 21:30:00,United States,US,Inflation Rate MoM,JUN,,0.3%,0.2%,0.1%
+12:30 PM,2025-07-15 21:30:00,United States,US,Inflation Rate YoY,JUN,,2.6%,2.5%,2.4%
+12:30 PM,2025-07-15 21:30:00,United States,US,CPI,JUN,,,322,321.465
+12:30 PM,2025-07-15 21:30:00,United States,US,CPI s.a,JUN,,,321.2,320.580
+12:30 PM,2025-07-15 21:30:00,United States,US,NY Empire State Manufacturing Index,JUL,,-10.1,-13,-16
+12:55 PM,2025-07-15 21:55:00,United States,US,Redbook YoY,JUL/12,,,,5.9%
+01:00 PM,2025-07-15 22:00:00,France,FR,12-Month BTF Auction,,,,,1.892%
+01:00 PM,2025-07-15 22:00:00,France,FR,3-Month BTF Auction,,,,,1.924%
+01:00 PM,2025-07-15 22:00:00,France,FR,6-Month BTF Auction,,,,,1.903%
+01:15 PM,2025-07-15 22:15:00,United States,US,Fed Bowman Speech,,,,,
+04:00 PM,2025-07-16 01:00:00,United States,US,NOPA Crush Report,,,,,
+04:45 PM,2025-07-16 01:45:00,United States,US,Fed Barr Speech,,,,,
+06:45 PM,2025-07-16 03:45:00,United States,US,Fed Collins Speech,,,,,
+08:00 PM,2025-07-16 05:00:00,United Kingdom,GB,BoE Gov Bailey Speech,,,,,
+08:30 PM,2025-07-16 05:30:00,United States,US,API Crude Oil Stock Change,JUL/11,,,,7.1M
+09:00 PM,2025-07-16 06:00:00,South Korea,KR,Export Prices YoY,JUN,,,-5.0%,-2.4%
+09:00 PM,2025-07-16 06:00:00,South Korea,KR,Import Prices YoY,JUN,,,-7.8%,-5%
+11:00 PM,2025-07-16 08:00:00,Japan,JP,Reuters Tankan Index,JUL,,,7,6
+11:00 PM,2025-07-16 08:00:00,South Korea,KR,Unemployment Rate,JUN,,,2.8%,2.7%
+11:45 PM,2025-07-16 08:45:00,United States,US,Fed Logan Speech,,,,,
+,,G20,G2,G20 Finance Ministers and Central Bank Governors Meeting,,,,,
+,,India,IN,Passenger Vehicles Sales YoY,JUN,,,,0.8%
+,,Saudi Arabia,SA,Inflation Rate MoM,JUN,,,0.2%,0.1%
+,,Saudi Arabia,SA,Inflation Rate YoY,JUN,,,2.3%,2.2%
+,,Saudi Arabia,SA,Wholesale Prices YoY,JUN,,,1.8%,2.0%
+,,India,IN,Balance of Trade,JUN,,,$ -22.5B,$-21.88B
+,,India,IN,Exports,JUN,,,$ 36.5B,$38.73B
+,,India,IN,Imports,JUN,,,$ 57B,$60.61B
+,,OPEC,OP,OPEC Monthly Report,,,,,
+06:00 AM,2025-07-16 15:00:00,United Kingdom,GB,Inflation Rate YoY,JUN,,3.4%,3.5%,3.4%
+06:00 AM,2025-07-16 15:00:00,United Kingdom,GB,Core Inflation Rate YoY,JUN,,3.5%,3.6%,3.5%
+06:00 AM,2025-07-16 15:00:00,United Kingdom,GB,Inflation Rate MoM,JUN,,,0.4%,0.2%
+06:00 AM,2025-07-16 15:00:00,United Kingdom,GB,Core Inflation Rate MoM,JUN,,,0.3%,0.2%
+06:00 AM,2025-07-16 15:00:00,United Kingdom,GB,Retail Price Index MoM,JUN,,,,0.2%
+06:00 AM,2025-07-16 15:00:00,United Kingdom,GB,Retail Price Index YoY,JUN,,4.3%,4.3%,4.3%
+07:20 AM,2025-07-16 16:20:00,Indonesia,ID,Loan Growth YoY,JUN,,,8.5%,8.43%
+07:30 AM,2025-07-16 16:30:00,Indonesia,ID,Interest Rate Decision,,,,5.25%,5.5%
+07:30 AM,2025-07-16 16:30:00,Indonesia,ID,Deposit Facility Rate,JUL,,,4.5%,4.75%
+07:30 AM,2025-07-16 16:30:00,Indonesia,ID,Lending Facility Rate,JUL,,,6%,6.25%
+08:00 AM,2025-07-16 17:00:00,Italy,IT,Harmonised Inflation Rate MoM Final,JUN,,0.2%,0.2%,-0.1%
+08:00 AM,2025-07-16 17:00:00,Italy,IT,Harmonised Inflation Rate YoY Final,JUN,,1.7%,1.7%,1.7%
+08:00 AM,2025-07-16 17:00:00,Italy,IT,Inflation Rate MoM Final,JUN,,0.2%,0.2%,-0.1%
+08:00 AM,2025-07-16 17:00:00,Italy,IT,Inflation Rate YoY Final,JUN,,1.7%,1.7%,1.6%
+09:00 AM,2025-07-16 18:00:00,Euro Area,EA,Balance of Trade,MAY,,€12B,€11.5B,€9.9B
+09:00 AM,2025-07-16 18:00:00,Italy,IT,Balance of Trade,MAY,,€2.87B,€2.6B,€2.482B
+09:00 AM,2025-07-16 18:00:00,United Kingdom,GB,Treasury Gilt 2034 Auction,,,,,
+09:30 AM,2025-07-16 18:30:00,Germany,DE,30-Year Bund Auction,,,,,2.99%
+10:10 AM,2025-07-16 19:10:00,European Union,EU,12-Month Bill Auction,,,,,1.920%
+10:10 AM,2025-07-16 19:10:00,European Union,EU,3-Month Bill Auction,,,,,1.922%
+10:10 AM,2025-07-16 19:10:00,European Union,EU,6-Month Bill Auction,,,,,1.930%
+11:00 AM,2025-07-16 20:00:00,South Africa,ZA,Retail Sales MoM,MAY,,,0.7%,0.9%
+11:00 AM,2025-07-16 20:00:00,South Africa,ZA,Retail Sales YoY,MAY,,,4.3%,5.1%
+11:00 AM,2025-07-16 20:00:00,United States,US,MBA 30-Year Mortgage Rate,JUL/11,,,,6.77%
+11:00 AM,2025-07-16 20:00:00,United States,US,MBA Mortgage Applications,JUL/11,,,,9.4%
+11:00 AM,2025-07-16 20:00:00,United States,US,MBA Mortgage Market Index,JUL/11,,,,281.6
+11:00 AM,2025-07-16 20:00:00,United States,US,MBA Mortgage Refinance Index,JUL/11,,,,829.3
+11:00 AM,2025-07-16 20:00:00,United States,US,MBA Purchase Index,JUL/11,,,,180.9
+12:30 PM,2025-07-16 21:30:00,United States,US,PPI MoM,JUN,,0.2%,0.3%,0.1%
+12:30 PM,2025-07-16 21:30:00,United States,US,Core PPI MoM,JUN,,0.2%,0.3%,0.1%
+12:30 PM,2025-07-16 21:30:00,United States,US,Core PPI YoY,JUN,,,3.2%,3%
+12:30 PM,2025-07-16 21:30:00,United States,US,PPI,JUN,,,148.9,148.072
+12:30 PM,2025-07-16 21:30:00,United States,US,"PPI Ex Food, Energy and Trade MoM",JUN,,,0.3%,0.1%
+12:30 PM,2025-07-16 21:30:00,United States,US,"PPI Ex Food, Energy and Trade YoY",JUN,,,2.8%,2.7%
+12:30 PM,2025-07-16 21:30:00,United States,US,PPI YoY,JUN,,,2.8%,2.6%
+01:15 PM,2025-07-16 22:15:00,United States,US,Fed Hammack Speech,,,,,
+01:15 PM,2025-07-16 22:15:00,United States,US,Industrial Production MoM,JUN,,0%,0.3%,-0.2%
+01:15 PM,2025-07-16 22:15:00,United States,US,Capacity Utilization,JUN,,77.4%,77.4%,77.4%
+01:15 PM,2025-07-16 22:15:00,United States,US,Industrial Production YoY,JUN,,,1.5%,0.6%
+01:15 PM,2025-07-16 22:15:00,United States,US,Manufacturing Production MoM,JUN,,,0.2%,0.1%
+01:15 PM,2025-07-16 22:15:00,United States,US,Manufacturing Production YoY,JUN,,,1.1%,0.5%
+02:00 PM,2025-07-16 23:00:00,United States,US,Fed Barr Speech,,,,,
+02:30 PM,2025-07-16 23:30:00,United States,US,EIA Crude Oil Stocks Change,JUL/11,,,,7.07M
+02:30 PM,2025-07-16 23:30:00,United States,US,EIA Gasoline Stocks Change,JUL/11,,,,-2.658M
+02:30 PM,2025-07-16 23:30:00,United States,US,EIA Crude Oil Imports Change,JUL/11,,,,-1.358M
+02:30 PM,2025-07-16 23:30:00,United States,US,EIA Cushing Crude Oil Stocks Change,JUL/11,,,,0.464M
+02:30 PM,2025-07-16 23:30:00,United States,US,EIA Distillate Fuel Production Change,JUL/11,,,,0.059M
+02:30 PM,2025-07-16 23:30:00,United States,US,EIA Distillate Stocks Change,JUL/11,,,,-0.825M
+02:30 PM,2025-07-16 23:30:00,United States,US,EIA Gasoline Production Change,JUL/11,,,,0.278M
+02:30 PM,2025-07-16 23:30:00,United States,US,EIA Heating Oil Stocks Change,JUL/11,,,,0.603M
+02:30 PM,2025-07-16 23:30:00,United States,US,EIA Refinery Crude Runs Change,JUL/11,,,,-0.099M
+03:30 PM,2025-07-17 00:30:00,United States,US,17-Week Bill Auction,,,,,4.230%
+04:00 PM,2025-07-17 01:00:00,Canada,CA,30-Year Bond Auction,,,,,3.698%
+04:00 PM,2025-07-17 01:00:00,Russia,RU,PPI MoM,JUN,,,-1.1%,-1.3%
+04:00 PM,2025-07-17 01:00:00,Russia,RU,PPI YoY,JUN,,,-2.0%,0.3%
+06:00 PM,2025-07-17 03:00:00,United States,US,Fed Beige Book,,,,,
+10:30 PM,2025-07-17 07:30:00,United States,US,Fed Williams Speech,,,,,
+11:50 PM,2025-07-17 08:50:00,Japan,JP,Balance of Trade,JUN,,¥353.9B,¥ -100B,¥-637.6B
+11:50 PM,2025-07-17 08:50:00,Japan,JP,Exports YoY,JUN,,0.5%,1%,-1.7%
+11:50 PM,2025-07-17 08:50:00,Japan,JP,Foreign Bond Investment,JUL/12,,,,¥1656.8B
+11:50 PM,2025-07-17 08:50:00,Japan,JP,Imports YoY,JUN,,-1.6%,-2.0%,-7.7%
+11:50 PM,2025-07-17 08:50:00,Japan,JP,Stock Investment by Foreigners,JUL/12,,,,¥611.7B
+,,G20,G2,G20 Finance Ministers and Central Bank Governors Meeting,,,,,
+,,Turkey,TR,Budget Balance,JUN,,,,TRY235.2B
+12:30 AM,2025-07-17 09:30:00,Singapore,SG,Non-Oil Exports MoM,JUN,,,0.7%,-12%
+12:30 AM,2025-07-17 09:30:00,Singapore,SG,Non-Oil Exports YoY,JUN,,,3.2%,-3.5%
+01:00 AM,2025-07-17 10:00:00,Australia,AU,Consumer Inflation Expectations,JUL,,,4.7%,5%
+01:00 AM,2025-07-17 10:00:00,Singapore,SG,Balance of Trade,JUN,,,$ 3.5B,$7.24B
+01:30 AM,2025-07-17 10:30:00,Australia,AU,Employment Change,JUN,,19.5K,25K,-2.5K
+01:30 AM,2025-07-17 10:30:00,Australia,AU,Full Time Employment Chg,JUN,,,5.0K,38.7K
+01:30 AM,2025-07-17 10:30:00,Australia,AU,Unemployment Rate,JUN,,4.1%,4.1%,4.1%
+01:30 AM,2025-07-17 10:30:00,Australia,AU,Part Time Employment Chg,JUN,,,20.0K,-41.2K
+01:30 AM,2025-07-17 10:30:00,Australia,AU,Participation Rate,JUN,,,67.1%,67%
+03:35 AM,2025-07-17 12:35:00,Japan,JP,52-Week Bill Auction,,,,,0.5671%
+05:00 AM,2025-07-17 14:00:00,Singapore,SG,6-Month T-Bill Auction,,,,,1.85%
+06:00 AM,2025-07-17 15:00:00,United Kingdom,GB,Unemployment Rate,MAY,,4.6%,4.6%,4.6%
+06:00 AM,2025-07-17 15:00:00,United Kingdom,GB,Average Earnings incl. Bonus (3Mo/Yr),MAY,,5%,5.2%,5.3%
+06:00 AM,2025-07-17 15:00:00,United Kingdom,GB,Employment Change,MAY,,,110.0K,89K
+06:00 AM,2025-07-17 15:00:00,United Kingdom,GB,Average Earnings excl. Bonus (3Mo/Yr),MAY,,,5.1%,5.2%
+06:00 AM,2025-07-17 15:00:00,United Kingdom,GB,HMRC Payrolls Change,JUN,,,-40.0K,-109K
+06:00 AM,2025-07-17 15:00:00,United Kingdom,GB,Claimant Count Change,JUN,,17.9K,21.0K,33.1K
+08:40 AM,2025-07-17 17:40:00,Spain,ES,10-Year Obligacion Auction,,,,,3.163%
+08:40 AM,2025-07-17 17:40:00,Spain,ES,23-Year Obligacion Auction,,,,,3.727%
+08:40 AM,2025-07-17 17:40:00,Spain,ES,5-Year Bonos Auction,,,,,2.506%
+09:00 AM,2025-07-17 18:00:00,Euro Area,EA,Core Inflation Rate YoY Final,JUN,,2.3%,2.3%,2.3%
+09:00 AM,2025-07-17 18:00:00,Euro Area,EA,CPI Final,JUN,,129.07,129.07,128.71
+09:00 AM,2025-07-17 18:00:00,Euro Area,EA,Inflation Rate MoM Final,JUN,,0.3%,0.3%,0%
+09:00 AM,2025-07-17 18:00:00,Euro Area,EA,Inflation Rate YoY Final,JUN,,2%,2.0%,1.9%
+09:00 AM,2025-07-17 18:00:00,France,FR,2028 OAT Auction,,,,,2.28%
+09:00 AM,2025-07-17 18:00:00,France,FR,2030 OAT Auction,,,,,2.53%
+09:00 AM,2025-07-17 18:00:00,France,FR,2031 OAT Auction,,,,,2.69%
+09:00 AM,2025-07-17 18:00:00,United Kingdom,GB,Treasury Gilt 2030 Auction,,,,,4.060%
+10:00 AM,2025-07-17 19:00:00,France,FR,2034 Index-Linked OAT Auction,,,,,1.25%
+10:00 AM,2025-07-17 19:00:00,France,FR,2038 Index-Linked OAT Auction,,,,,
+10:00 AM,2025-07-17 19:00:00,France,FR,2039 OATi Auction,,,,,1.56%
+11:00 AM,2025-07-17 20:00:00,Canada,CA,CFIB Business Barometer,JUL,,,47.5,47.3
+11:00 AM,2025-07-17 20:00:00,South Africa,ZA,Building Permits YoY,MAY,,,-12.0%,-20.8%
+12:30 PM,2025-07-17 21:30:00,Canada,CA,Foreign Securities Purchases,MAY,,,,C$-9.36B
+12:30 PM,2025-07-17 21:30:00,Canada,CA,Foreign Securities Purchases by Canadians,MAY,,,,C$4.1B
+12:30 PM,2025-07-17 21:30:00,United States,US,Retail Sales MoM,JUN,,0%,0.2%,-0.9%
+12:30 PM,2025-07-17 21:30:00,United States,US,Export Prices MoM,JUN,,,-0.1%,-0.9%
+12:30 PM,2025-07-17 21:30:00,United States,US,Import Prices MoM,JUN,,0.2%,0.1%,0%
+12:30 PM,2025-07-17 21:30:00,United States,US,Initial Jobless Claims,JUL/12,,225K,230.0K,227K
+12:30 PM,2025-07-17 21:30:00,United States,US,Philadelphia Fed Manufacturing Index,JUL,,-0.4,-3,-4.0
+12:30 PM,2025-07-17 21:30:00,United States,US,Retail Sales Control Group MoM,JUN,,,0.3%,0.4%
+12:30 PM,2025-07-17 21:30:00,United States,US,Retail Sales Ex Autos MoM,JUN,,0.3%,0.2%,-0.3%
+12:30 PM,2025-07-17 21:30:00,United States,US,Continuing Jobless Claims,JUL/05,,,1970.0K,1965K
+12:30 PM,2025-07-17 21:30:00,United States,US,Export Prices YoY,JUN,,,1.9%,1.7%
+12:30 PM,2025-07-17 21:30:00,United States,US,Import Prices YoY,JUN,,,0.2%,0.2%
+12:30 PM,2025-07-17 21:30:00,United States,US,Jobless Claims 4-week Average,JUL/12,,,237.0K,235.5K
+12:30 PM,2025-07-17 21:30:00,United States,US,Philly Fed Business Conditions,JUL,,,,18.3
+12:30 PM,2025-07-17 21:30:00,United States,US,Philly Fed CAPEX Index,JUL,,,,14.50
+12:30 PM,2025-07-17 21:30:00,United States,US,Philly Fed Employment,JUL,,,,-9.8
+12:30 PM,2025-07-17 21:30:00,United States,US,Philly Fed New Orders,JUL,,,,2.3
+12:30 PM,2025-07-17 21:30:00,United States,US,Philly Fed Prices Paid,JUL,,,,41.40
+12:30 PM,2025-07-17 21:30:00,United States,US,Retail Sales Ex Gas/Autos MoM,JUN,,,0.1%,-0.1%
+12:30 PM,2025-07-17 21:30:00,United States,US,Retail Sales YoY,JUN,,,3.6%,3.3%
+02:00 PM,2025-07-17 23:00:00,United States,US,Business Inventories MoM,MAY,,0.2%,-0.1%,0%
+02:00 PM,2025-07-17 23:00:00,United States,US,Fed Kugler Speech,,,,,
+02:00 PM,2025-07-17 23:00:00,United States,US,NAHB Housing Market Index,JUL,,33,31,32
+02:00 PM,2025-07-17 23:00:00,United States,US,Retail Inventories Ex Autos MoM,MAY,,0.2%,0.2%,0.3%
+02:30 PM,2025-07-17 23:30:00,United States,US,EIA Natural Gas Stocks Change,JUL/11,,,,53Bcf
+03:30 PM,2025-07-18 00:30:00,United States,US,4-Week Bill Auction,,,,,4.235%
+03:30 PM,2025-07-18 00:30:00,United States,US,8-Week Bill Auction,,,,,4.275%
+04:00 PM,2025-07-18 01:00:00,Canada,CA,2-Year Bond Auction,,,,,2.683%
+04:00 PM,2025-07-18 01:00:00,United States,US,15-Year Mortgage Rate,JUL/17,,,,5.86%
+04:00 PM,2025-07-18 01:00:00,United States,US,30-Year Mortgage Rate,JUL/17,,,,6.72%
+05:30 PM,2025-07-18 02:30:00,United States,US,Fed Cook Speech,,,,,
+07:00 PM,2025-07-18 04:00:00,Argentina,AR,Balance of Trade,JUN,,,$ 900M,$608M
+08:00 PM,2025-07-18 05:00:00,United States,US,Net Long-term TIC Flows,MAY,,,,$-7.8B
+08:00 PM,2025-07-18 05:00:00,United States,US,Foreign Bond Investment,MAY,,,,$-40.8B
+08:00 PM,2025-07-18 05:00:00,United States,US,Overall Net Capital Flows,MAY,,,,$-14.2B
+08:30 PM,2025-07-18 05:30:00,United States,US,Fed Balance Sheet,JUL/16,,,,$6.66T
+10:30 PM,2025-07-18 07:30:00,United States,US,Fed Waller Speech,,,,,
+11:30 PM,2025-07-18 08:30:00,Japan,JP,Inflation Rate YoY,JUN,,,3.3%,3.5%
+11:30 PM,2025-07-18 08:30:00,Japan,JP,Core Inflation Rate YoY,JUN,,3.3%,3.4%,3.7%
+11:30 PM,2025-07-18 08:30:00,Japan,JP,Inflation Rate Ex-Food and Energy YoY,JUN,,,3.4%,3.3%
+11:30 PM,2025-07-18 08:30:00,Japan,JP,Inflation Rate MoM,JUN,,,0.1%,0.3%
+,,G20,G2,G20 Finance Ministers and Central Bank Governors Meeting,,,,,
+03:35 AM,2025-07-18 12:35:00,Japan,JP,3-Month Bill Auction,,,,,0.4054%
+03:35 AM,2025-07-18 12:35:00,Japan,JP,BoJ JGB Purchases,,,,,
+06:00 AM,2025-07-18 15:00:00,Germany,DE,PPI YoY,JUN,,,-1.4%,-1.2%
+06:00 AM,2025-07-18 15:00:00,Germany,DE,PPI MoM,JUN,,0.1%,0.0%,-0.2%
+08:00 AM,2025-07-18 17:00:00,Euro Area,EA,Current Account,MAY,,,€15.1B,€19.3B
+08:00 AM,2025-07-18 17:00:00,Euro Area,EA,Current Account s.a,MAY,,,,€19.8B
+08:00 AM,2025-07-18 17:00:00,Italy,IT,Construction Output YoY,MAY,,,4.7%,5.9%
+08:00 AM,2025-07-18 17:00:00,Spain,ES,Balance of Trade,MAY,,,€ -3.1B,€-3.88B
+09:00 AM,2025-07-18 18:00:00,Euro Area,EA,Construction Output YoY,MAY,,,2.7%,3%
+09:00 AM,2025-07-18 18:00:00,Italy,IT,Current Account,MAY,,,€1050.0M,€359M
+11:30 AM,2025-07-18 20:30:00,India,IN,Bank Loan Growth YoY,JUL/04,,,12.5%,9.6%
+11:30 AM,2025-07-18 20:30:00,India,IN,Deposit Growth YoY,JUL/04,,,,10.4%
+11:30 AM,2025-07-18 20:30:00,India,IN,Foreign Exchange Reserves,JUL/11,,,,$699.74B
+11:30 AM,2025-07-18 20:30:00,Turkey,TR,Foreign Exchange Reserves,JUL/11,,,,$79.79B
+12:30 PM,2025-07-18 21:30:00,United States,US,Building Permits Prel,JUN,,1.39M,1.37M,1.394M
+12:30 PM,2025-07-18 21:30:00,United States,US,Housing Starts,JUN,,1.30M,1.29M,1.256M
+12:30 PM,2025-07-18 21:30:00,United States,US,Building Permits MoM Prel,JUN,,,-1.7%,-2%
+12:30 PM,2025-07-18 21:30:00,United States,US,Housing Starts MoM,JUN,,,2.7%,-9.8%
+02:00 PM,2025-07-18 23:00:00,United States,US,Michigan Consumer Sentiment Prel,JUL,,61.5,60.5,60.7
+02:00 PM,2025-07-18 23:00:00,United States,US,Michigan 5 Year Inflation Expectations Prel,JUL,,,4.0%,4%
+02:00 PM,2025-07-18 23:00:00,United States,US,Michigan Consumer Expectations Prel,JUL,,,58,58.1
+02:00 PM,2025-07-18 23:00:00,United States,US,Michigan Current Conditions Prel,JUL,,,64.6,64.8
+02:00 PM,2025-07-18 23:00:00,United States,US,Michigan Inflation Expectations Prel,JUL,,,4.7%,5%
+05:00 PM,2025-07-19 02:00:00,United States,US,Baker Hughes Oil Rig Count,JUL/18,,,,424
+05:00 PM,2025-07-19 02:00:00,United States,US,Baker Hughes Total Rigs Count,JUL/18,,,,537
+07:00 PM,2025-07-19 04:00:00,Argentina,AR,Economic Activity YoY,MAY,,,4.2%,7.7%
+,,G20,G2,G20 Finance Ministers and Central Bank Governors Meeting,,,,,
+01:15 AM,2025-07-20 10:15:00,China,CN,Loan Prime Rate 1Y,,,,3.0%,3%
+01:15 AM,2025-07-20 10:15:00,China,CN,Loan Prime Rate 5Y,JUL,,,3.5%,3.5%
+,,Japan,JP,Upper House Election,,,,,
+05:00 AM,2025-07-21 14:00:00,South Korea,KR,5-Year KTB Auction,,,,,2.655%
+09:30 AM,2025-07-21 18:30:00,Germany,DE,3-Month Bubill Auction,,,,,1.8339%
+09:30 AM,2025-07-21 18:30:00,Germany,DE,9-Month Bubill Auction,,,,,1.8162%
+11:40 AM,2025-07-21 20:40:00,India,IN,Infrastructure Output YoY,JUN,,,1.3%,0.7%
+12:30 PM,2025-07-21 21:30:00,Canada,CA,PPI MoM,JUN,,,0.3%,-0.5%
+12:30 PM,2025-07-21 21:30:00,Canada,CA,PPI YoY,JUN,,,2.5%,1.2%
+12:30 PM,2025-07-21 21:30:00,Canada,CA,Raw Materials Prices MoM,JUN,,,0.8%,-0.4%
+12:30 PM,2025-07-21 21:30:00,Canada,CA,Raw Materials Prices YoY,JUN,,,-2.0%,-2.8%
+01:00 PM,2025-07-21 22:00:00,France,FR,12-Month BTF Auction,,,,,
+01:00 PM,2025-07-21 22:00:00,France,FR,3-Month BTF Auction,,,,,
+01:00 PM,2025-07-21 22:00:00,France,FR,6-Month BTF Auction,,,,,
+02:00 PM,2025-07-21 23:00:00,United States,US,CB Leading Index MoM,JUN,,,,
+02:30 PM,2025-07-21 23:30:00,Canada,CA,BoC Business Outlook Survey,,,,,
+03:30 PM,2025-07-22 00:30:00,United States,US,3-Month Bill Auction,,,,,
+03:30 PM,2025-07-22 00:30:00,United States,US,6-Month Bill Auction,,,,,
+09:00 PM,2025-07-22 06:00:00,South Korea,KR,PPI MoM,JUN,,,-0.2%,-0.4%
+09:00 PM,2025-07-22 06:00:00,South Korea,KR,PPI YoY,JUN,,,0.0%,0.3%
+,,Brazil,BR,BCB Focus Market Readout,,,,,
+,,Turkey,TR,Central Government Debt,JUN,,,TRY11.0T,
+01:30 AM,2025-07-22 10:30:00,Australia,AU,RBA Meeting Minutes,,,,,
+03:00 AM,2025-07-22 12:00:00,Indonesia,ID,M2 Money Supply YoY,JUN,,,,4.9%
+05:00 AM,2025-07-22 14:00:00,Singapore,SG,MAS 12-Week Bill Auction,,,,,
+05:00 AM,2025-07-22 14:00:00,Singapore,SG,MAS 4-Week Bill Auction,,,,,
+05:00 AM,2025-07-22 14:00:00,South Korea,KR,20-Year KTB Auction,,,,,2.825%
+06:00 AM,2025-07-22 15:00:00,United Kingdom,GB,Public Sector Net Borrowing Ex Banks,JUN,,,£ -14.2B,£-17.69B
+07:00 AM,2025-07-22 16:00:00,South Africa,ZA,Leading Business Cycle Indicator MoM,MAY,,,0.5%,-0.3%
+09:00 AM,2025-07-22 18:00:00,United Kingdom,GB,Index-linked Treasury Gilt 2035 Auction,,,,,
+10:30 AM,2025-07-22 19:30:00,Germany,DE,Bund/g Auction,,,,,
+12:00 PM,2025-07-22 21:00:00,Mexico,MX,Economic Activity MoM,MAY,,,,0.5%
+12:00 PM,2025-07-22 21:00:00,Mexico,MX,Economic Activity YoY,MAY,,,,-1.5%
+12:00 PM,2025-07-22 21:00:00,Mexico,MX,Retail Sales MoM,MAY,,,,-1%
+12:00 PM,2025-07-22 21:00:00,Mexico,MX,Retail Sales YoY,MAY,,,,-2%
+12:30 PM,2025-07-22 21:30:00,United States,US,Fed Chair Powell Speech,,,,,
+12:55 PM,2025-07-22 21:55:00,United States,US,Redbook YoY,JUL/19,,,,
+02:00 PM,2025-07-22 23:00:00,United States,US,Richmond Fed Manufacturing Index,JUL,,,,-7
+02:00 PM,2025-07-22 23:00:00,United States,US,Richmond Fed Manufacturing Shipments Index,JUL,,,-5,-3
+02:00 PM,2025-07-22 23:00:00,United States,US,Richmond Fed Services Revenues Index,JUL,,,,-4
+05:00 PM,2025-07-23 02:00:00,United States,US,Fed Bowman Speech,,,,,
+05:00 PM,2025-07-23 02:00:00,United States,US,Money Supply,JUN,,,$ 22T,$21.94T
+08:30 PM,2025-07-23 05:30:00,United States,US,API Crude Oil Stock Change,JUL/18,,,,
+09:00 PM,2025-07-23 06:00:00,South Korea,KR,Consumer Confidence,JUL,,,110,108.7
+01:00 AM,2025-07-23 10:00:00,Australia,AU,Westpac Leading Index MoM,JUN,,,0.2%,-0.1%
+01:30 AM,2025-07-23 10:30:00,Japan,JP,BoJ Uchida Speech,,,,,
+03:35 AM,2025-07-23 12:35:00,Japan,JP,40-Year JGB Auction,,,,,3.135%
+05:00 AM,2025-07-23 14:00:00,Singapore,SG,Core Inflation Rate YoY,JUN,,,0.8%,0.6%
+05:00 AM,2025-07-23 14:00:00,Singapore,SG,Inflation Rate MoM,JUN,,,0.1%,0.7%
+05:00 AM,2025-07-23 14:00:00,Singapore,SG,Inflation Rate YoY,JUN,,,0.8%,0.8%
+07:00 AM,2025-07-23 16:00:00,Turkey,TR,Consumer Confidence,JUL,,,85.5,85.1
+08:00 AM,2025-07-23 17:00:00,South Africa,ZA,Inflation Rate MoM,JUN,,,0.2%,0.2%
+08:00 AM,2025-07-23 17:00:00,South Africa,ZA,Inflation Rate YoY,JUN,,,2.6%,2.8%
+08:00 AM,2025-07-23 17:00:00,South Africa,ZA,Core Inflation Rate MoM,JUN,,,,0%
+08:00 AM,2025-07-23 17:00:00,South Africa,ZA,Core Inflation Rate YoY,JUN,,,2.9%,3%
+09:00 AM,2025-07-23 18:00:00,United Kingdom,GB,Treasury Gilt 2040 Auction,,,,,
+09:30 AM,2025-07-23 18:30:00,Germany,DE,10-Year Bund Auction,,,,,2.63%
+11:00 AM,2025-07-23 20:00:00,United States,US,MBA 30-Year Mortgage Rate,JUL/18,,,,
+11:00 AM,2025-07-23 20:00:00,United States,US,MBA Mortgage Applications,JUL/18,,,,
+11:00 AM,2025-07-23 20:00:00,United States,US,MBA Mortgage Market Index,JUL/18,,,,
+11:00 AM,2025-07-23 20:00:00,United States,US,MBA Mortgage Refinance Index,JUL/18,,,,
+11:00 AM,2025-07-23 20:00:00,United States,US,MBA Purchase Index,JUL/18,,,,
+11:30 AM,2025-07-23 20:30:00,India,IN,M3 Money Supply YoY,JUL/11,,,,
+12:30 PM,2025-07-23 21:30:00,Canada,CA,New Housing Price Index MoM,JUN,,,0.1%,-0.2%
+02:00 PM,2025-07-23 23:00:00,Euro Area,EA,Consumer Confidence Flash,JUL,,,-15.6,-15.3
+02:00 PM,2025-07-23 23:00:00,United States,US,Existing Home Sales,JUN,,,4.0M,4.03M
+02:00 PM,2025-07-23 23:00:00,United States,US,Existing Home Sales MoM,JUN,,,,0.8%
+02:30 PM,2025-07-23 23:30:00,United States,US,EIA Crude Oil Stocks Change,JUL/18,,,,
+02:30 PM,2025-07-23 23:30:00,United States,US,EIA Gasoline Stocks Change,JUL/18,,,,
+02:30 PM,2025-07-23 23:30:00,United States,US,EIA Crude Oil Imports Change,JUL/18,,,,
+02:30 PM,2025-07-23 23:30:00,United States,US,EIA Cushing Crude Oil Stocks Change,JUL/18,,,,
+02:30 PM,2025-07-23 23:30:00,United States,US,EIA Distillate Fuel Production Change,JUL/18,,,,
+02:30 PM,2025-07-23 23:30:00,United States,US,EIA Distillate Stocks Change,JUL/18,,,,
+02:30 PM,2025-07-23 23:30:00,United States,US,EIA Gasoline Production Change,JUL/18,,,,
+02:30 PM,2025-07-23 23:30:00,United States,US,EIA Heating Oil Stocks Change,JUL/18,,,,
+02:30 PM,2025-07-23 23:30:00,United States,US,EIA Refinery Crude Runs Change,JUL/18,,,,
+03:30 PM,2025-07-24 00:30:00,United States,US,17-Week Bill Auction,,,,,
+04:00 PM,2025-07-24 01:00:00,Canada,CA,2-Year Bond Auction,,,,,
+04:00 PM,2025-07-24 01:00:00,Russia,RU,Corporate Profits,MAY,,,,
+04:00 PM,2025-07-24 01:00:00,Russia,RU,Industrial Production YoY,JUN,,,2%,1.8%
+05:00 PM,2025-07-24 02:00:00,United States,US,20-Year Bond Auction,,,,,
+07:00 PM,2025-07-24 04:00:00,Argentina,AR,Retail Sales YoY,MAY,,,,66.9%
+09:00 PM,2025-07-24 06:00:00,South Korea,KR,Business Confidence,JUL,,,71,70
+11:00 PM,2025-07-24 08:00:00,Australia,AU,S&P Global Manufacturing PMI Flash,JUL,,,50.4,50.6
+11:00 PM,2025-07-24 08:00:00,Australia,AU,S&P Global Services PMI Flash,JUL,,,51.2,51.8
+11:00 PM,2025-07-24 08:00:00,Australia,AU,S&P Global Composite PMI Flash,JUL,,,51,51.6
+11:00 PM,2025-07-24 08:00:00,South Korea,KR,GDP Growth Rate QoQ Adv,Q2,,,1.2%,
+11:00 PM,2025-07-24 08:00:00,South Korea,KR,GDP Growth Rate YoY Adv,Q2,,,1.5%,
+11:50 PM,2025-07-24 08:50:00,Japan,JP,Foreign Bond Investment,JUL/19,,,,
+11:50 PM,2025-07-24 08:50:00,Japan,JP,Stock Investment by Foreigners,JUL/19,,,,
+,,Argentina,AR,Leading Indicator MoM,JUN,,,0.4%,0.32%
+12:30 AM,2025-07-24 09:30:00,Japan,JP,Jibun Bank Manufacturing PMI Flash,JUL,,,50.3,50.1
+12:30 AM,2025-07-24 09:30:00,Japan,JP,Jibun Bank Services PMI Flash,JUL,,,51.3,51.7
+12:30 AM,2025-07-24 09:30:00,Japan,JP,Jibun Bank Composite PMI Flash,JUL,,,50.9,51.5
+01:30 AM,2025-07-24 10:30:00,Australia,AU,RBA Bulletin,,,,,
